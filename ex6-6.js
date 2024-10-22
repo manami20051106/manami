@@ -3,8 +3,8 @@ function sayhello66(){
 alert('Hello,'+who66+'!');
 }
 function taro66(){
-  who65 ='太郎が来た'; 
+  who66 ='太郎が来た'; 
 }
 function hanako66(){
-  who65 ='花子来た';
+  who66='花子来た';
 }
