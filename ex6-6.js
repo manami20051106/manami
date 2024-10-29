@@ -2,10 +2,6 @@ var who66 ='world';
 function sayhello66(){
 alert('Hello,'+who66+'!');
 }
-var who77 ='が来た';
-function taro77(){
-alert('太郎,'+who77+'!';)
-}
-function hanako77(){
-alert('花子,'+who77+'!';)
-}
+function taro66(){who66='太郎';}
+function hanako66(){who66='花子';}
+function gakita66(){alert(who66+'が来た');}
