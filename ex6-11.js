@@ -1,4 +1,4 @@
-function imgchange4() {
+function imgchange3() {
     document.getElementById('logo').src = './image/jokoma.jpg';
 }
 function imgchange4() {
